@@ -2,6 +2,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/unosquare/passcore/total.svg)](https://github.com/unosquare/passcore/releases)
 [![Analytics](https://ga-beacon.appspot.com/UA-8535255-2/unosquare/passcore/)](https://github.com/igrigorik/ga-beacon)
 [![Build Status](https://travis-ci.org/unosquare/passcore.svg?branch=master)](https://travis-ci.org/unosquare/passcore)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsrepetsk%2Fpasscore.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsrepetsk%2Fpasscore?ref=badge_shield)
 
 
 ![Passcore Logo](https://github.com/unosquare/passcore/raw/master/src/Unosquare.PassCore.Web/ClientApp/assets/images/passcore-logo.png)
@@ -22,6 +23,9 @@
   - [Build your own version](#build-your-own-version)
   - [Create your own provider](#create-your-own-provider)
   - [License](#license)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsrepetsk%2Fpasscore.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsrepetsk%2Fpasscore?ref=badge_large)
 
 ## Overview
 
